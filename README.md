@@ -1,8 +1,10 @@
-# React + Vite
+## QR Code Generator 
+1. React
+2. Tailwind CSS
+3. react spinner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Desktop View
+![Desktop view](https://github.com/parmilan1998/QrCodeGenerator/assets/103124559/e5ce8b16-a793-4884-8e40-e0c1ce587050)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Mobile View
+![responsive](https://github.com/parmilan1998/QrCodeGenerator/assets/103124559/7128192e-0ec1-42bc-a951-85200ba7a8fb)
