@@ -4,8 +4,8 @@ import Spinner from './Spinner'
 const QrCode = () => {
   const [img, setImg] = useState('')
   const [loading, setLoading] = useState(false)
-  const [qrdata, setQrData] = useState('https://tailwindcss.com/')
-  const [qrsize, setQrsize] = useState('50')
+  const [qrdata, setQrData] = useState('')
+  const [qrsize, setQrsize] = useState('')
   async function generateQR() {
     setLoading(true)
     try {
